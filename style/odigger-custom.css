@@ -1,0 +1,50 @@
+/* Update This CSS 
+
+/* CUSTOM SEARCH RESULTS CSS */
+#odigger-search {}
+#odigger-search .offers-search .search-button {}
+#odigger-search .offers-search .q {}
+/*#odigger-search .offers-search .q-wrapper {}*/
+#odigger-search select.network {}
+#odigger-search .offers-search {}
+#odigger-search .form-wrapper {}
+#odigger-search a:hover {}
+#odigger-search .search-results {}
+#odigger-search .search-results .sponsored {}
+#odigger-search .search-results table {}
+#odigger-search .search-results table td {}
+#odigger-search .search-results table a {}
+#odigger-search .search-results table tr.shaded:hover {}
+#odigger-search .search-results table tr:hover {}
+#odigger-search .search-results table tr.shaded {}
+#odigger-search .search-results table td a {}
+#odigger-search .search-results table th {}
+#odigger-search .search-results table th a {}
+#odigger-search .search-results table th.name {}
+#odigger-search .search-results .landing-page {}
+#odigger-search .search-results .network-url {}
+#odigger-search .search-results .payout {}
+#odigger-search .search-results .payout-type {}
+#odigger-search .search-results .added {}
+#odigger-search .clearDiv {}
+#odigger-search .search-results .results-info {}
+#odigger-search .search-results .search-info {}
+#odigger-search .search-results .offers-limit {}
+#odigger-search .search-results .divider {}
+#odigger-search #overlay.loading {}
+#odigger-search #loading-gif {}
+#odigger-search #loading-gif.visible {}
+#odigger-search .sponsored-text {}
+#odigger-search .search-title {}
+#odigger-search .search-results .pages a {}
+#odigger-search .search-results .pages div {}
+#odigger-search .search-results .pages span {}
+#odigger-search .search-results .pages {}
+#odigger-search .search-results .pages span {}
+#odigger-search .attribution {}
+
+/* CUSTOM SIDEBAR WIDGET CSS */
+.odigger_search_sidebar_widget {}
+.odigger_search_sidebar_widget .search-button {}
+.odigger_search_sidebar_widget .query {}
+.odigger_search_sidebar_widget .attribution {}

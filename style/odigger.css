@@ -1,0 +1,56 @@
+.odigger_search_sidebar_widget  .clearDiv,
+#odigger-search .clearDiv {content:".";display:block;height:0;clear:both;visibility:hidden;}
+#odigger-search {width:625px; font-family:arial;font-size:13px; position:relative;margin:5px auto 0 auto}
+#odigger-search .offers-search .search-button {background:transparent url(../images/search_button.jpg) no-repeat;height:23px;width:104px;;border:0;padding-top:2px;margin:0;float:left;cursor:pointer}
+#odigger-search .offers-search .q {/*width:200px;float:left;margin:0;padding:0;space:0;border-spacing:0;display:inline;margin-right:5px;color:#888;font-family:arial;font-size:18px;line-height:24px;height:18px;*/}
+#odigger-search .offers-search .q {width:200px;border-spacing: 0;color: #AAAAAA;display: inline;float: left;font-family: arial;font-size: 15px;height: 22px;line-height: 22px; margin: 0 5px 0 0;padding:1px 0 0 5px;}
+#odigger-search select.network {width:182px;float: left;margin:0 5px;font-family: arial;font-size: 15px;height: 25px;line-height: 25px;padding:0;}
+#odigger-search .offers-search {margin:0 auto;padding:0;width:510px;}
+#odigger-search .form-wrapper {}
+#odigger-search a:hover {text-decoration:underline}
+#odigger-search .search-results {position:relative}
+#odigger-search .search-results .sponsored {color:orange}
+#odigger-search .search-results table {width:100%;margin-bottom:0}
+#odigger-search .search-results table td {border-bottom:1px solid #ccc;padding:0;margin:0;vertical-align:middle}
+#odigger-search .search-results table a {text-decoration:none;color:blue;}
+#odigger-search .search-results table tr.shaded:hover {background-color:#ddd}
+#odigger-search .search-results table tr:hover {background-color:#ddd}
+#odigger-search .search-results table tr.shaded {background-color:#f4f4f4}
+#odigger-search .search-results table td a {width:100%;height:100%;display:block;padding:10px;color:#3B60B0}
+#odigger-search .search-results table td span {width:100%;height:100%;display:block;padding:10px;color:#555}
+#odigger-search .search-results table th {background: #D5D5D5 url(../images/heading_bkgd.jpg) repeat-x; /*background-color:#2578AA;/*background-color:#2988BE;*/text-align:left;padding:10px 10px;}
+#odigger-search .search-results table th a {color:black}
+#odigger-search .search-results table th.name {text-align:left}
+#odigger-search .search-results table th.network {text-align:left}
+#odigger-search .search-results table th.payout_type {text-align:center}
+#odigger-search .search-results .landing-page {text-align:left;padding-right:33px}
+#odigger-search .search-results .network-url {text-align:left;width:153px;padding-left:0px;}
+#odigger-search .search-results .payout {text-align:center;padding:10px 13px 10px 32px;}
+#odigger-search .search-results .payout-type {text-align:center;padding:10px 12px 10px 14px;}
+#odigger-search .search-results .added {text-align:center;padding:10px 10px 10px 10px;width:45px}
+#odigger-search .clearDiv {content:".";display:block;height:0;clear:both;visibility:hidden;}
+#odigger-search .search-results .results-info {padding:10px 0;height:20px;}
+#odigger-search .search-results .search-info {float:left;line-height:20px}
+#odigger-search .search-results .search-info b {color:#333;}
+#odigger-search .search-results .offers-limit {float:right;width:163px;line-height:20px}
+#odigger-search .search-results .divider {margin:0 5px;float:left}
+#odigger-search #overlay.loading {filter:alpha(opacity=50);-moz-opacity:0.5;-khtml-opacity:0.5;opacity: 0.5;display:block}
+#odigger-search #loading-gif {background:url(../images/loading.gif) no-repeat -190px -143px; width:121px;height:100px;position:relative;z-index:1;display:none;}
+#odigger-search #loading-gif.visible {display:block;margin:0 auto; top:5px;z-index:4;}
+#odigger-search .search-results table td span.sponsored-text {color:orange; padding:0;}
+#odigger-search .search-title {font-size:18px;margin-top:15px;margin-bottom:5px}
+#odigger-search .search-results .pages a {text-decoration:none;}
+#odigger-search .search-results .pages div {float:left;}
+#odigger-search .search-results .pages span {float:left;}
+#odigger-search .search-results .pages {float:right;text-align:right;padding:10px 0}
+#odigger-search .search-results .pages span {color:orange;}
+#odigger-search .attribution {line-height:35px; background:url(../images/powerd_by.jpg) top right no-repeat;width:203px;height:28px;display:block;margin-top:5px;float:left}
+.odigger-attribution {margin:5px auto 5px auto;color:#555;text-align:center}
+#odigger-search .odigger-network-signup {margin:10px; 0}
+#odigger-search select.results-per-page {float:right;margin:0}
+#odigger-search select.results-per-page-label {float:left;}
+
+.odigger_search_sidebar_widget {margin:0px}
+.odigger_search_sidebar_widget .search-button {background:transparent url(../images/search_button.jpg) no-repeat;height:23px;width:104px;;border:0;padding-top:2px;margin:0;margin-top:-1px;cursor:pointer}
+.odigger_search_sidebar_widget .query {width:90%;border:1px solid black;margin:0 5px 5px 0px;background-color:#F9F9F9}
+.odigger_search_sidebar_widget .attribution {line-height:35px; background:url(../images/powerd_by_small.jpg) left top no-repeat;width:110px;height:18px;display:block;margin-top:5px}
